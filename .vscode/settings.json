@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "${fileDirname}\\..\\env\\python.exe",
+    "python.linting.enabled": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.cwd": "${fileDirname}",
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "editor.fontSize": 16,
+    "editor.rulers": [
+    79
+    ]
+}
