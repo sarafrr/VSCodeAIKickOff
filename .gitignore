@@ -124,5 +124,15 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# .tgz datasets
+# datasets
 *.tgz
+*.gz
+*.tar
+
+# image files
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
